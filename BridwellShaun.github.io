@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-<title>Page</title>
+<title>page</title>
 </head>
 <body>
-<h1>This is my heading</h1>
-<p>And this is my paragraph!</p>
+<h1>this is my heading</h1>
+<p>and this is my paragraph!</p>
 </body>
 </html>
